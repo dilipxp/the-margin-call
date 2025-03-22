@@ -1,92 +1,127 @@
-# 🚀 The Margin Call: 1-Year FAANG+ Job Preparation Plan
+# 📚 Data Structures & Algorithms (DSA) Roadmap
 
 ## **📌 Overview**
-This is a structured 1-year plan to prepare for top tech company job interviews (Google, Apple, Meta, Atlassian, etc.). It covers DSA, System Design, TypeScript, React, Node.js, Open-Source, and other key topics.
+This repository contains a structured plan for mastering Data Structures and Algorithms (DSA) to prepare for top tech company interviews.
 
 ---
 
-# **📆 1-Year Plan Breakdown**
+## **📆 DSA Topics to Cover**
 
-## **🔥 Phase 1 (Months 1-3): Strengthening Foundations**
-### **1. Data Structures & Algorithms (DSA)**
-📌 **Goal:** Solve 200+ Leetcode problems (Start with Easy & Medium)  
-✅ **Topics:** Arrays, Strings, HashMaps, Stack, Queue, Linked List, Recursion, Trees, Graphs, DP  
-✅ **Practice Sites:** Leetcode, Codeforces, InterviewBit  
-✅ **Schedule:** 5-7 DSA problems per week  
+### **1️⃣ Arrays**
+- Sliding Window Technique  
+- Two Pointers  
+- Prefix Sum & Difference Array  
+- Kadane’s Algorithm (Maximum Subarray)  
+- Merge Intervals  
+- Subarrays & Subsequences  
 
-### **2. TypeScript & JavaScript Mastery**
-📌 **Goal:** Advanced mastery in JavaScript & TypeScript  
-✅ Closures, Event Loop, Prototypes, Functional Programming, Async/Await  
-✅ TypeScript Generics, Utility Types, Decorators, Type Guards  
+### **2️⃣ Strings**
+- Two Pointer Technique  
+- Pattern Matching (KMP, Rabin-Karp)  
+- Anagram & Palindrome Problems  
+- String Compression & Manipulation  
 
-### **3. React & Frontend Optimization**
-📌 **Goal:** Strengthen React skills with best practices & optimizations  
-✅ React Hooks, State Management (Zustand/Redux), Virtual DOM, Code Splitting  
-✅ Performance Optimizations (Lazy Loading, Memoization, Profiling)  
-✅ Build a portfolio-level React project  
+### **3️⃣ Linked List**
+- Singly & Doubly Linked List  
+- Fast & Slow Pointer (Cycle Detection, Middle Node)  
+- Reverse a Linked List (Iterative & Recursive)  
+- Merge Sort & Quick Sort on Linked List  
 
----
+### **4️⃣ Stacks & Queues**
+- Monotonic Stack & Monotonic Queue  
+- LRU Cache (Least Recently Used)  
+- Implement Queue using Stack & vice versa  
+- Next Greater Element / Previous Smaller Element  
 
-## **🔥 Phase 2 (Months 4-6): Mastering Advanced Topics**
-### **1. System Design & Scalability**
-📌 **Goal:** Learn High-Level & Low-Level System Design  
-✅ Topics: Load Balancing, Caching, Database Scaling, Microservices  
-✅ Resources: System Design Primer (GitHub), Grokking System Design  
-✅ Practice System Design Interviews  
+### **5️⃣ Hashing (HashMaps & HashSets)**
+- Frequency Counting & Anagrams  
+- Two Sum, Subarray Sum (Prefix Sum & Hashing)  
+- Hashing vs Sorting Approaches  
 
-### **2. Backend & Node.js Mastery**
-📌 **Goal:** Advanced Node.js & Backend System Design  
-✅ Topics: API Design, WebSockets, Caching, Authentication (JWT, OAuth)  
-✅ Build a Scalable Full-Stack App using Node.js, Express.js, MongoDB/PostgreSQL  
+### **6️⃣ Heaps & Priority Queue**
+- Min Heap & Max Heap  
+- Heap Sort  
+- Top K Elements Pattern  
+- Median in a Data Stream  
 
-### **3. Computer Science Fundamentals**
-📌 **Goal:** Strengthen CS fundamentals  
-✅ OS (Processes, Threads, Memory Management, File Systems)  
-✅ Databases (SQL vs NoSQL, ACID, Transactions, Indexing, Query Optimization)  
-✅ Networking (HTTP, TCP/IP, DNS, CDN, WebSockets)  
+### **7️⃣ Recursion & Backtracking**
+- Base Cases & Recursive Calls  
+- Subset & Permutations  
+- Sudoku Solver & N-Queens  
+- Word Search  
 
----
+### **8️⃣ Binary Search**
+- Binary Search on Answer (Search Space Reduction)  
+- Lower Bound & Upper Bound  
+- Search in Rotated Sorted Array  
+- Kth Smallest/Largest Element  
 
-## **🔥 Phase 3 (Months 7-9): Building & Showcasing Skills**
-### **1. Contribute to Open Source**
-📌 **Goal:** Build credibility & get noticed by recruiters  
-✅ Contribute to React, TypeScript, or PixiJS repositories  
-✅ Build a personal PixiJS-based project and open-source it  
+### **9️⃣ Trees**
+- Binary Trees & Binary Search Trees  
+- Tree Traversals (Preorder, Inorder, Postorder)  
+- Lowest Common Ancestor (LCA)  
+- Diameter of a Tree  
+- Trie (Prefix Tree)  
 
-### **2. Full-Stack Project for Portfolio**
-📌 **Goal:** A real-world full-stack project with React & Node.js  
-✅ Ideas: Job Board, Chat App, E-commerce, SaaS Tool  
-✅ Host it on GitHub & Deploy on AWS/Vercel  
-
-### **3. Mock Interviews**
-📌 **Goal:** Get comfortable with real-world interviews  
-✅ System Design Interviews (2 per month)  
-✅ DSA Mock Interviews (2 per month)  
-✅ Behavioral Interview Prep (STAR Method)  
-
----
-
-## **🔥 Phase 4 (Months 10-12): Applying & Interviewing**
-### **1. Resume & LinkedIn Optimization**
-📌 **Goal:** Get noticed by recruiters  
-✅ Resume ATS-optimized with Projects, DSA, System Design  
-✅ LinkedIn fully updated with strong bio & key projects  
-
-### **2. Applying to Top Companies**
-📌 **Goal:** Secure multiple interviews  
-✅ Apply to Google, Meta, Apple, Atlassian, Microsoft, Amazon  
-✅ Reach out to recruiters on LinkedIn for referrals  
-
-### **3. Final Interview Prep**
-📌 **Goal:** Be fully prepared for FAANG-level interviews  
-✅ Daily Leetcode Hard problems  
-✅ System design discussions with mock interview partners  
+### **🔟 Graphs**
+- BFS & DFS (Graph Traversal)  
+- Topological Sorting  
+- Dijkstra & Bellman-Ford (Shortest Path)  
+- Union-Find & Kruskal’s Algorithm (Minimum Spanning Tree)  
+- Bipartite Graph & Cycle Detection  
 
 ---
 
-## **📌 Additional Technologies to Learn**
-🔥 DevOps & Cloud → AWS, Docker, Kubernetes  
-🔥 Web Performance & Optimization → CDN, Caching, Lazy Loading, WebAssembly  
-🔥 AI/ML Basics → TensorFlow.js for integrating ML into web projects  
-🔥 Security Best Practices → Secure coding, Web Security (OWASP Top 10)  
+## **📌 Algorithms to Master**
 
+### **1️⃣ Sorting Algorithms**
+- Quick Sort & Merge Sort  
+- Heap Sort  
+- Counting Sort & Radix Sort  
+
+### **2️⃣ Searching Algorithms**
+- Linear Search & Binary Search  
+- Ternary Search  
+- Interpolation Search  
+
+### **3️⃣ Divide and Conquer**
+- Merge Sort, Quick Sort  
+- Closest Pair of Points Problem  
+
+### **4️⃣ Dynamic Programming (DP)**
+- 1D DP (Climbing Stairs, Fibonacci)  
+- 2D DP (Knapsack, Grid Paths)  
+- DP on Trees (LCA, Diameter)  
+- DP on Bitmasks  
+
+### **5️⃣ Greedy Algorithms**
+- Activity Selection  
+- Huffman Encoding  
+- Kruskal’s Algorithm (MST)  
+
+### **6️⃣ Bit Manipulation**
+- XOR Trick  
+- Counting Set Bits  
+- Power of Two, Subsets using Bits  
+
+### **7️⃣ Mathematical Algorithms**
+- GCD & LCM (Euclidean Algorithm)  
+- Prime Numbers (Sieve of Eratosthenes)  
+- Modular Arithmetic  
+
+---
+
+## **📌 How to Study DSA Efficiently?**
+- Solve **5-7 problems per week**  
+- Start with **Easy & Medium** problems  
+- Focus on **Patterns in Problems**  
+- Implement each algorithm multiple times  
+
+---
+
+## **🚀 Next Steps**
+✅ Follow the structured plan and track progress  
+✅ Solve problems on Leetcode, Codeforces, and InterviewBit  
+✅ Master the core concepts and prepare for FAANG interviews  
+
+💡 **Let’s ace DSA together!** 🎯
